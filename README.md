@@ -4,8 +4,6 @@ This project enables secure and scalable **Google Cloud Platform (GCP) integrati
 
 It simplifies GCP data collection, accelerates implementation, and promotes best practices for secure impersonation. This model is especially suited for ISVs, observability platforms, or teams building custom integrations with their own backend logic.
 
-> Inspired by modern monitoring platforms like dd, this solution emphasizes least-privilege access and service account-based workflows rather than user-based auth or API keys.
-
 ---
 
 ## 1. Main Service Account
