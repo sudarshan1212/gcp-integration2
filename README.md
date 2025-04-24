@@ -66,15 +66,7 @@ After impersonation, use the impersonated credentials to make API calls such as:
 1. Main account authenticates.
 2. Main account impersonates user's service account.
 3. Impersonated credentials are used to call GCP APIs.
-4. Data is collected securely without exposing static credentials.
-
----
-
-## Benefits
-- No need to share static credentials.
-- Fine-grained access control.
-- Secure and scalable integration.
-- Aligns with GCP best practices for cross-project access.
+4. Data is collected securely without exposing.
 
 ---
 
