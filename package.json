@@ -1,0 +1,24 @@
+{
+  "name": "gcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/asset": "^6.1.0",
+    "@google-cloud/compute": "^5.1.0",
+    "@google-cloud/iam-credentials": "^4.0.1",
+    "@google-cloud/monitoring": "^5.0.1",
+    "@google-cloud/resource-manager": "^6.0.1",
+    "axios": "^1.8.4",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "google-auth-library": "^10.0.0-rc.1",
+    "node-fetch": "^3.3.2"
+  }
+}
