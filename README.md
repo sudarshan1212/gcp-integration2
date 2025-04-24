@@ -1,6 +1,6 @@
 # GCP Integration using Service Account 
 
-This project enables secure and scalable **Google Cloud Platform (GCP) integration using service account impersonation**, allowing you to collect monitoring data (logs, metrics, compute inventory, etc.) across multiple GCP projects—**without using static credentials**.
+This project enables secure and scalable **Google Cloud Platform (GCP) integration using service account impersonation**, allowing you to collect monitoring data (logs, metrics, compute inventory, etc.) across multiple GCP projects.
 
 It simplifies GCP data collection, accelerates implementation, and promotes best practices for secure impersonation. This model is especially suited for ISVs, observability platforms, or teams building custom integrations with their own backend logic.
 
